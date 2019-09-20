@@ -4,7 +4,7 @@ Employee CRUD Application Using Servlet, JDBC and JSP.
 
 ## About Application
 
-   The project “Employee Management System” is developed in java, which mainly focuses on basic operations in a Company like adding
+   The project “Future_Tech” is developed in java, which mainly focuses on basic operations in a Company like adding
 new employee information, updating employee information and deleting employee information. It features a familiar and well thought-out, an attractive user interface.
 The Backend of the project is designed using MySQL.
  
